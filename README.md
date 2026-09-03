@@ -1,4 +1,4 @@
-# O Julgamento do Viajante
+# O Julgamento do Viajante (em desenvolvimento)
 
 Um jogo de escolhas narrativas imersivo desenvolvido em **JavaFX**, onde cada decisão determina o destino do protagonista em meio a um cenário implacável assolado por uma peste mortal.
 
